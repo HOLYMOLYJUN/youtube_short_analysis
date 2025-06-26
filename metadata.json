@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Shorts Channel Analyzer",
+  "description": "An AI-powered tool to analyze and simulate YouTube Shorts channel information based on keywords. Provides insights into potential channel themes, content strategies, and contribution analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
